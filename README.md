@@ -2,7 +2,7 @@
 
 [Semantic hashing VAEs](https://github.com/proger/vae) adapted to https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/
 
-To prepare the data, run. This joins three datasets together and remaps vocabularies.
+To prepare the data, run this. These commands join three datasets together and remaps vocabularies.
 
 ```bash
 make
